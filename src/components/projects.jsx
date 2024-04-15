@@ -24,7 +24,7 @@ export const Projects = () => {
                 >
                   <span class="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
                   <span>
-                   Coffe Landing Page{" "}
+                    Coffe Landing Page{" "}
                     <span class="inline-block">
                       <svg
                         xmlns="http://www.w3.org/2000/svg"
@@ -44,8 +44,9 @@ export const Projects = () => {
                 </a>
               </h3>
               <p class="mt-2 text-sm leading-normal  text-sm leading-normal text-slate-opa">
-                Responsive Landing Page for a coffee in my city. You can see the location
-                of the place, scan the menu and preview and inform about dishes.
+                Responsive Landing Page for a coffee in my city. You can see the
+                location of the place, scan the menu and preview and inform
+                about dishes.
               </p>
               <ul class="mt-2 flex flex-wrap" aria-label="Technologies used:">
                 <li class="mr-1.5 mt-2">
@@ -55,7 +56,7 @@ export const Projects = () => {
                 </li>
                 <li class="mr-1.5 mt-2">
                   <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-                   Tailwind
+                    Tailwind
                   </div>
                 </li>
                 <li class="mr-1.5 mt-2">
@@ -65,7 +66,7 @@ export const Projects = () => {
                 </li>
                 <li class="mr-1.5 mt-2">
                   <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-                  Map API
+                    Map API
                   </div>
                 </li>
               </ul>
@@ -111,10 +112,8 @@ export const Projects = () => {
                 </a>
               </h3>
               <p class="mt-2 text-sm leading-normal  text-sm leading-normal text-slate-opa">
-                Web app for visualizing personalized Spotify data. View your top
-                artists, top tracks, recently played tracks, and detailed audio
-                information about each track. Create and save new playlists of
-                recommended tracks based on your existing playlists and more.
+                Live online chat. You enter your username, and you can see
+                online users and chat with them from anywhere in the world.
               </p>
               <ul class="mt-2 flex flex-wrap" aria-label="Technologies used:">
                 <li class="mr-1.5 mt-2">
@@ -124,17 +123,17 @@ export const Projects = () => {
                 </li>
                 <li class="mr-1.5 mt-2">
                   <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-                  TypeScript
+                    TypeScript
                   </div>
                 </li>
                 <li class="mr-1.5 mt-2">
                   <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-                   NestJS
+                    NestJS
                   </div>
                 </li>
                 <li class="mr-1.5 mt-2">
                   <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-                  WebSockets
+                    WebSockets
                   </div>
                 </li>
               </ul>
