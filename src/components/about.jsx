@@ -16,7 +16,9 @@ export const About = () => {
           of projects in real life, with a work team and agile methodologies.
         </p>
         
+        
       </div>
     </section>
+        
   );
 };
