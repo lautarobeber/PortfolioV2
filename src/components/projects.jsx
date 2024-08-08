@@ -28,7 +28,7 @@ export const Projects = () => {
                 >
                   <span class="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
                   <span>
-                    Coffe Landing Page - Free trial hosting end{" "}
+                    Coffe Landing Page - Free trial hosting
                     <span class="inline-block">
                       <svg
                         xmlns="http://www.w3.org/2000/svg"
@@ -88,14 +88,14 @@ export const Projects = () => {
               <h3>
                 <a
                   class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300  group/link text-base"
-                  href="https://github.com/lautarobeber/websockets-chat"
+                  href="https://drive.google.com/file/d/10D5PbFn58VLb438ioU6M2JChpOy4QONr/view?usp=sharing"
                   target="_blank"
                   rel="noreferrer noopener"
                   aria-label="Spotify Profile (opens in a new tab)"
                 >
                   <span class="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
                   <span>
-                    Web Sockets Chat - Free trial hosting end{" "}
+                    Web Sockets Chat 
                     <span class="inline-block">
                       
                       <svg
@@ -155,7 +155,7 @@ export const Projects = () => {
               <h3>
                 <a
                   class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300  group/link text-base"
-                  href="https://github.com/lautarobeber/webpage-backend"
+                  href="https://drive.google.com/file/d/10W_UyV2Hty-4Lamv9xDgBSRLXC8ssmhT/view?usp=drive_link"
                   target="_blank"
                   rel="noreferrer noopener"
                   aria-label="Spotify Profile (opens in a new tab)"
@@ -164,7 +164,7 @@ export const Projects = () => {
                   <span>
                     Sneaker{" "}
                     <span class="inline-block">
-                      E-commerce - Free trial hosting end
+                      E-commerce app
                       <svg
                         xmlns="http://www.w3.org/2000/svg"
                         viewBox="0 0 20 20"
@@ -186,10 +186,8 @@ export const Projects = () => {
                 As a user, you create an account and have the possibility of
                 purchasing your shoes in the size you want. or also add them to
                 the cart, to make a varied purchase. Once purchased, You can see
-                the status of your order in the MIS COMPRAS section.<br></br>Test the payment:<br></br>
-                Credit card: 4242 4242 4242 4242, Expiration date: 12/32, invent
-                the rest.<br></br>
-                Admin User: admin@admin.com, Password: admin123
+                the status of your order in the MIS COMPRAS section.
+               
               </p>
               <ul class="mt-2 flex flex-wrap" aria-label="Technologies used:">
                 <li class="mr-1.5 mt-2">
